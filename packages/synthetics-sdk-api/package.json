@@ -42,7 +42,7 @@
     "@opentelemetry/sdk-trace-node": "1.17.0",
     "error-stack-parser": "2.1.4",
     "google-auth-library": "9.0.0",
-    "ts-proto": "1.148.1",
+    "ts-proto": "1.173.0",
     "winston": "3.10.0",
     "axios": "1.6.7"
   },
